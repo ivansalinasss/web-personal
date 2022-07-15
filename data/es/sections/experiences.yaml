@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: ISA Paraguay
+    url: "https://www.isaportal.com.py/"
+    location: Asunción - Paraguay
+    # company overview
+    overview: Es parte de un grupo empresarial dedicado a brindar servicios de consultoría en tecnologías de la información, desarrollo de software e ingeniería.
+  positions:
+  - designation: Desarrollador Full Stack
+    start: Agosto 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Parte del equipo de desarrollo de nueva version del sistema MiRecibo utilizando React y Java Spring.
+    - Diseño y desarrollo de sistema interno utilizando React con plantilla hecha con Material UI.
+
+- company:
+    name: Dirección Nacional de Aduanas - Dirección de TIC
+    url: "https://www.aduana.gov.py/49-4-sistema-sofia.html"
+    location: Asunción - Paraguay
+    overview: La Dirección de TIC(conocido como Sistema SOFIA) brinda soporte operativo y vela constantemente por el crecimiento de la infraestructura tecnológica de la Dirección Nacional de Aduanas, lo cual redunda en beneficio de las diversas personas vinculadas a la actividad aduanera.
+  positions:
+  - designation: Desarrollador Full Stack & Analista de sistemas
+    start: Septiembre 2019
+    end: Julio 2021
+    responsibilities:
+    - Desarrollo de nueva version del sistema VUI utilizando Angular 2 y Java Spring.
+    - Diseño e implementación de esquemas de base de datos y posterior automatización con PL/SQL.
+    - Consultas complejas SQL para generacion de reportes.
+    - Analisis de modulos ya existentes y creacion de diagramas UML(Sistema VUI).
