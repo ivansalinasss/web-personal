@@ -1,0 +1,39 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Full Stack Developer
+# your company information
+company:
+  name: ISA Paraguay
+  url: "https://www.isaportal.com.py/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/cv.pdf"
+
+# a summary about you
+summary: "I'm a WEB Developer with 3 years of experience in a professional environment. Use of Spring Framework (JAVA) for Rest API. ORACLE, PostgreSQL, MongoDB databases. Also, front-end with React.Js."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ivansalinasss"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow

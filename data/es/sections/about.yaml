@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Sobre mi
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Full Stack Developer
+# your company information
+company:
+  name: ISA Paraguay
+  url: "https://www.isaportal.com.py/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/cv.pdf"
+
+# a summary about you
+summary: 'Soy desarrollador de Sistemas WEB con 3 años de experiencia laboral. Desarrollando Rest API con Java Spring, automatizacion de base de datos con PL/SQL, Front End con React.Js.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fa-solid fa-envelope"
+  url: "mailto:contactoivansalinasss@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+- name: Linkedin
+  icon: "fa-brands fa-linkedin"
+  url: "https://www.linkedin.com/in/ivansalinasss/"
+
+- name: Platzi
+  icon: "fa-solid fa-book-atlas"
+  url: "https://platzi.com/p/ivansalinasss/"
+
+- name: Instagram
+  icon: "fa-brands fa-instagram-square"
+  url: "https://www.instagram.com/ivansalinasss/"
+
+- name: Leetcode
+  icon: "fa-solid fa-dumbbell"
+  url: "https://leetcode.com/ivansalinasss/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Liderazgo
+  percentage: 80
+  color: blue
+- name: Trabajo en equipo
+  percentage: 90
+  color: yellow
