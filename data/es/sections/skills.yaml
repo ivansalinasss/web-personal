@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Habilidades
   id: skills
   enable: true
   weight: 2
@@ -11,15 +11,45 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Spring Framework
+  logo: "/images/sections/skills/spring.png"
+  summary: "Utilizando como Framework principal para desarrollo Back End. 3 años de experiencia profesional."
+  url: "https://spring.io/"
+
 - name: Java
   logo: "/images/sections/skills/java.png"
-  summary: "Usando como lenguaje principal para el desarrollo de sistemas profesional. Capaz de escribir programas escalables, testeables y mantenibles."
+  summary: "Usando como lenguaje principal para el desarrollo de sistemas profesional. Capaz de escribir programas escalables, testeables y mantenibles. Mas 5 años de experiencia."
   url: "https://www.java.com/"
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Solidos conocimientos. Utilizado para proyectos personales y de la Universidad. Conocimientos de DJango Framework."
   url: "https://www.python.org/"
 
-- name: Cloud Computing
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Base de datos
+  logo: /images/sections/skills/bd.png
+  summary: "Amplio conocimiento consultas, seguridad y automatización de base de datos relacionales. Conocimientos en base de datos no relacionales"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Usando como sistema operativo para desarrollo de proyectos personales. Capaz de escribir bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experiencia en desarrollo basado en git. Utilizo GitHub para proyectos personales y GitLab para ambientes profesionales."
+  url: "https://git-scm.com/"
+
+- name: React
+  logo: /images/sections/skills/react.png
+  summary: "Capaz crear, mantener y testear interfaces de usuario. 1 año de experiencia profesional."
+  url: "https://reactjs.org/"
+
+- name: Windows
+  logo: /images/sections/skills/windows.png
+  summary: "Usando como sistema operativo principal en mi trabajo. Capaz de escribir PowerShell scripts."
+  url: "https://docs.microsoft.com/en-us/powershell/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Conocimientos en el manejo de contenedores Docker. Creacion de scripts para el manejo de los mismos."
+  url: "https://www.docker.com/"
