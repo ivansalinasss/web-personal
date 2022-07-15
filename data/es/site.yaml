@@ -1,5 +1,13 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+copyright: © 2022 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of John Doe.
+description: Portafolio y web personal de Ivan Salinas.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Ivan Salinas
+  type: website
+  description: Portafolio y web personal de Ivan Salinas.
+  image: images/ivan.png
+  url: https://ivansalinasss.github.io/

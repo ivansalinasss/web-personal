@@ -14,11 +14,12 @@ skills:
 - name: Java
   logo: "/images/sections/skills/java.png"
   summary: "Usando como lenguaje principal para el desarrollo de sistemas profesional. Capaz de escribir programas escalables, testeables y mantenibles."
-  url: "https://kubernetes.io/"
+  url: "https://www.java.com/"
 
-- name: Go Development
+- name: Python
+  logo: "/images/sections/skills/python.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://www.python.org/"
 
 - name: Cloud Computing
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
