@@ -10,4 +10,6 @@ openGraph:
   type: website
   description: Portafolio y web personal de Ivan Salinas.
   image: images/ivan.png
+  image:type: image/png
+  image:alt: "Foto de Ivan"
   url: https://ivansalinasss.github.io/
