@@ -18,17 +18,17 @@ skills:
 
 - name: Java
   logo: "/images/sections/skills/java.png"
-  summary: "Usando como lenguaje principal para el desarrollo de sistemas profesional. Capaz de escribir programas escalables, testeables y mantenibles. Mas 5 años de experiencia."
+  summary: "Usando como lenguaje principal para el desarrollo de sistemas profesionales. Capaz de escribir programas escalables, testeables y mantenibles. Mas 5 años de experiencia."
   url: "https://www.java.com/"
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Solidos conocimientos. Utilizado para proyectos personales y de la Universidad. Conocimientos de DJango Framework."
+  summary: "Sólidos conocimientos. Utilizado para proyectos personales y de la Universidad. Conocimientos de DJango Framework."
   url: "https://www.python.org/"
 
 - name: Base de datos
   logo: /images/sections/skills/bd.png
-  summary: "Amplio conocimiento consultas, seguridad y automatización de base de datos relacionales. Conocimientos en base de datos no relacionales"
+  summary: "Amplio conocimiento consultas, seguridad y automatización de base de datos relacionales. Conocimientos en base de datos no relacionales."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -43,11 +43,6 @@ skills:
   logo: /images/sections/skills/react.png
   summary: "Capaz crear, mantener y testear interfaces de usuario. 1 año de experiencia profesional."
   url: "https://reactjs.org/"
-
-- name: Windows
-  logo: /images/sections/skills/windows.png
-  summary: "Usando como sistema operativo principal en mi trabajo. Capaz de escribir PowerShell scripts."
-  url: "https://docs.microsoft.com/en-us/powershell/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg

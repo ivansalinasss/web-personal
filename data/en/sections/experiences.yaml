@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: ISA Paraguay
+    url: "https://www.isaportal.com.py/"
+    location: Asunción - Paraguay
+    # company overview
+    overview: It is part of a business group dedicated to providing consulting services in information technology, software development and engineering.
+  positions:
+  - designation: Full Stack Developer
+    start: August 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Part of the development team for the new version of the MiRecibo system using React and Java Spring.
+    - Design and development of internal system using React with a template made with Material UI.
+
+- company:
+    name: Dirección Nacional de Aduanas - The ICT Directorate
+    url: "https://www.aduana.gov.py/49-4-sistema-sofia.html"
+    location: Asunción - Paraguay
+    overview: The ICT Directorate (known as the Sistema SOFIA) provides operational support and constantly watches over the growth of the technological infrastructure of the National Customs Directorate, which benefits the various people linked to customs activity.
+  positions:
+  - designation: Full Stack Developer & Systems analyst
+    start: September 2019
+    end: July 2021
+    responsibilities:
+    - Development of a new version of the VUI system using Angular 2 and Java Spring.
+    - Design and implementation of database schemas and subsequent automation with PL/SQL.
+    - Complex SQL queries for report generation.
+    - Analysis of existing modules and creation of UML diagrams (VUI System).

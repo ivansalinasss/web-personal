@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Spring Framework
+  logo: "/images/sections/skills/spring.png"
+  summary: "Using as the main Framework for Back End development. 3 years of professional experience."
+  url: "https://spring.io/"
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Using as the main language for professional development. Able to write scalable, testable and maintainable programs. More than 5 years of experience."
+  url: "https://www.java.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Solid knowledge. Used for personal and university projects. Knowledge of DJango Framework."
+  url: "https://www.python.org/"
+
+- name: Databases
+  logo: /images/sections/skills/bd.png
+  summary: "Extensive knowledge of queries, security and automation of relational databases. Knowledge of non-relational databases."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as operating system for development of personal projects. Capable to write bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Git-based development experience. I use GitHub for personal projects and GitLab for professional environments."
+  url: "https://git-scm.com/"
+
+- name: React
+  logo: /images/sections/skills/react.png
+  summary: "Capable of writing scalable, testable, and maintainable program. 1 year of professional experience."
+  url: "https://reactjs.org/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Knowledge in handling Docker containers. Creation of scripts to manage them."
+  url: "https://www.docker.com/"

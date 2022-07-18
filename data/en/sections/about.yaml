@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Full Stack Developer
+designation: Full Stack & Java Developer
 # your company information
 company:
   name: ISA Paraguay
@@ -18,14 +18,34 @@ company:
 resume: "files/cv.pdf"
 
 # a summary about you
-summary: "I'm a WEB Developer with 3 years of experience in a professional environment. Use of Spring Framework (JAVA) for Rest API. ORACLE, PostgreSQL, MongoDB databases. Also, front-end with React.Js."
+summary: "I'm a WEB Developer with 3 years of experience in a professional environment. Developing Rest API with Java Spring. Database automation with PL/SQL. Also, Front End with React.Js."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Email
+  icon: "fa-solid fa-envelope"
+  url: "contactoivansalinasss@gmail.com"
+
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/ivansalinasss"
+  url: "https://www.github.com/example"
+
+- name: Linkedin
+  icon: "fa-brands fa-linkedin"
+  url: "https://www.linkedin.com/in/ivansalinasss/"
+
+- name: Platzi
+  icon: "fa-solid fa-book-atlas"
+  url: "https://platzi.com/p/ivansalinasss/"
+
+- name: Instagram
+  icon: "fa-brands fa-instagram-square"
+  url: "https://www.instagram.com/ivansalinasss/"
+
+- name: Leetcode
+  icon: "fa-solid fa-dumbbell"
+  url: "https://leetcode.com/ivansalinasss/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -37,3 +57,6 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Proactive
+  percentage: 85
+  color: green

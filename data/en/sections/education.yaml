@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Educación
+  name: Education
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -12,15 +12,15 @@ section:
 degrees:
 - name: Lic. en Ciencias Informáticas
   icon: fa-university
-  timeframe: 2015 - Actualidad
+  timeframe: 2015 - Present
   institution:
     name: Universidad Nacional de Asunción - Facultad Politécnica
     url: "https://www.pol.una.py/"
   extracurricularActivities: #(optional)
-  - Orador de charla sobre IoT y demostración con Raspberry Pi y python.
-  - Creación de pequeño robot para demostración del dispositivo CyberKnife en la Feria de Ciencias.
-- name: Bachiller Técnico en Informática
+  - IoT talk speaker and demo with Raspberry Pi and python.
+  - Creation of small robot for demonstration of the CyberKnife device at the Science Fair.
+- name: Technical Bachelor in Computer Science
   icon: fa-school
   timeframe: 2011-2013
   institution:
-    name: Instituto Gral. José Eduvigis Diaz
+    name: Gral. José Eduvigis Diaz Institute

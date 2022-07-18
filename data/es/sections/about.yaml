@@ -18,14 +18,14 @@ company:
 resume: "files/cv.pdf"
 
 # a summary about you
-summary: 'Soy desarrollador de Sistemas WEB con 3 años de experiencia laboral. Desarrollando Rest API con Java Spring, automatizacion de base de datos con PL/SQL, Front End con React.Js.'
+summary: 'Soy desarrollador de Sistemas WEB con 3 años de experiencia laboral. Desarrollando Rest API con Java Spring, automatización de base de datos con PL/SQL, Front End con React.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fa-solid fa-envelope"
-  url: "mailto:contactoivansalinasss@gmail.com"
+  url: "contactoivansalinasss@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
