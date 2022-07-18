@@ -17,7 +17,7 @@ degrees:
     name: Universidad Nacional de Asunción - Facultad Politécnica
     url: "https://www.pol.una.py/"
   extracurricularActivities: #(optional)
-  - Disertar charla sobre IoT y demostracion con Raspberry Pi y python.
+  - Disertar charla sobre IoT y demostración con Raspberry Pi y python.
   - Creación de pequeño robot para demostración del dispositivo CyberKnife en la Feria de Ciencias.
 - name: Bachiller Técnico en Informática
   icon: fa-school

@@ -51,5 +51,5 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Conocimientos en el manejo de contenedores Docker. Creacion de scripts para el manejo de los mismos."
+  summary: "Conocimientos en el manejo de contenedores Docker. Creación de scripts para el manejo de los mismos."
   url: "https://www.docker.com/"
