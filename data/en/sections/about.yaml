@@ -18,7 +18,7 @@ company:
 resume: "files/cv.pdf"
 
 # a summary about you
-summary: "I'm a WEB Developer with 3 years of experience in a professional environment. Developing Rest API with Java Spring. Database automation with PL/SQL. Also, Front End with React.Js."
+summary: "I'm a WEB Developer with 3 years of experience in a professional environment. Developing Rest API with Java Spring. Database automation with PL/SQL. Also, Front End with React."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
